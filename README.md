@@ -83,6 +83,8 @@ My Master's research is associated with electric powertrain and EV retro-fitment
 
 **Academic research works**
 
+These reseach works are carried out during my masters course work at Vellore Institute of Technology, Vellore.
+
       Title:**Techno-economic assessment of coconut biodiesel as a potential alternative fuel for compression ignition engines**
       Authors: Jeyaseelan Thangaraja, **Vignesh Srinivasan**
       Journal: Environmental Science and Pollution Research
@@ -99,15 +101,15 @@ My Master's research is associated with electric powertrain and EV retro-fitment
       Publisher: Elsevier
       DOI: https://doi.org/10.1016/j.promfg.2019.02.062
 
-      Title:Thermal Management System of Battery Power Pack for Electric Vehicle
-      Authors: Vignesh Srinivasan, Vikas Gangad, Athul P., Thundilkaruppa Raj R.
+      Title:**Thermal Management System of Battery Power Pack for Electric Vehicle**
+      Authors: **Vignesh Srinivasan**, Vikas Gangad, Athul P., Thundilkaruppa Raj R.
       Conference: SAE FISITA World Automotive Congress 2018
       Location: Chennai, India
       Date: March 2019
       ResearchGate: https://www.researchgate.net/publication/331640741_THERMAL_MANAGEMENT_SYSTEM_OF_BATTERY_POWER_PACK_FOR_ELECTRIC_VEHICLE
 
-      Title:Life Cycle Sustainability Analysis of Jatropha Biodiesel
-      Authors: Vignesh Srinivasan, Thangaraja Jeyaseelan, Mahesh Muthukrishnan
+      Title:**Life Cycle Sustainability Analysis of Jatropha Biodiesel**
+      Authors: **Vignesh Srinivasan**, Thangaraja Jeyaseelan, Mahesh Muthukrishnan
       Conference: International Conference on Sustainable Energy and Environmental Challenges (SEEC-2018)
       Location: Indian Institute of Science (IISc), Bangalore
       Date: February 2019
