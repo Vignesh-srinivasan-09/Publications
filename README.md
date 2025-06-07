@@ -3,6 +3,8 @@ This repository contains list of publications associated with Vignesh Srinivasan
 
 **Second Life Batteries**
 
+My PhD research is associated with State of Health and Remaining useful Life Estimation of Second Life Electric Vehicle Batteries - carried out at UMPEDAC, Universiti Malaya and Department of Computer Science and Technology, Universiti Malaya.
+
       Title: **State of Health (SoH) estimation methods for second life lithium-ion battery—Review and challenges**
       Authors: **Vignesh S**, Che Hang Seng, Selvaraj Jeyraj, Tey Kok Soon, Lee Jia Woon, Shareef Hussain, Errouissi Rachid  
       Journal: Applied Energy, Elsevier  
@@ -46,4 +48,38 @@ This repository contains list of publications associated with Vignesh Srinivasan
       DOI: https://doi.org/10.1109/ICAEECI58247.2023.10370779 
 
 **EV Powertrain**
+
+My Master's research is associated with electric powertrain and EV retro-fitment - carried out at The Automotive Research Association of India, Pune in collaboration with Vellore Institute of Technology, Vellore, India.
+
+      Title:**Vehicle to Grid (V2G): Booster for EV Adaptation in India**
+      Authors: Ishwari Tank, **Vignesh S**, Y.K. Bhateshvar, K.C. Vora
+      Conference: 2021 IEEE 2nd International Conference on Smart Technologies for Power, Energy and Control (STPEC)
+      Pages: 1–6
+      Year: 2021
+      DOI: https://doi.org/10.1109/STPEC52385.2021.9718678
+
+      Title:**Significance of Driving Cycle on Performance Parameters and Range in Small Electric Vehicle**
+      Authors:**Vignesh S**, Yogesh Krishan Bhateshvar, Mohammad Rafiq B Agrewale, K.C. Vora
+      Conference: 2020 IEEE First International Conference on Smart Technologies for Power, Energy and Control (STPEC)
+      Pages: 1–5
+      Year: 2020
+      DOI: https://doi.org/10.1109/STPEC49749.2020.9297781
+
+      Title:**Comparative Analysis of Powertrain Optimization for Small Electric Vehicle Based on Range and Weight for Retro-fitment**
+      Authors: **Vignesh S**, Yogesh Krishan Bhateshvar, Mohammad Rafiq B Agrewale, K.C. Vora
+      Journal: Materials Today: Proceedings
+      Volume: 63, Pages: 579–586
+      Year: 2022
+      DOI: https://doi.org/10.1016/j.matpr.2022.04.043
+
+      Title:**Comprehensive Design of Small Electric Vehicle for Powertrain Optimization for Optimum Range with Weight and Size Reduction**
+      Authors: **Vignesh S**, Yogesh Krishan Bhateshvar, Mohammad Rafiq B Agrewale, K.C. Vora
+      Book Title: Planning of Hybrid Renewable Energy Systems, Electric Vehicles and Microgrid: Modeling, Control and Optimization
+      Pages: 443–486
+      Publisher: Springer
+      Year: 2022
+      DOI: https://doi.org/10.1007/978-981-19-0979-5_18
+
+
+**Academic research works**
 
